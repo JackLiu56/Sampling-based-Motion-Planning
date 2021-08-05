@@ -2,7 +2,7 @@
 
 ## Initial Steps:
 
-1. Download comprobfall2018-hw2.zip 
+1. Download file 
 
 2. Unzip the folder inside $HOME/catkin_ws/src
 
